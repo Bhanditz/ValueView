@@ -6,6 +6,7 @@
 .ui-suggester-list {
 	border-color: #C9C9C9;
 	background: white;
+	z-index: 4; /* needs to be above .ui-inputextender-extension and .ui-listrotator-menu *
 }
 
 .ui-suggester-list .ui-state-hover {
